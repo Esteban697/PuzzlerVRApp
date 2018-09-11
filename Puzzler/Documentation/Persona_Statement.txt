@@ -1,0 +1,6 @@
+Persona:
+Joe is 25. He ones a smartphone and a table. He works as accountant and he likes numbers and puzzles. 
+He is curious about VR but have no experience with it. “If it adds up then it’s interesting” is his quote.
+
+Statemente of Purpose:
+Puzzler is a Mobile VR app for new VR users which challenges them to solve a familiar type of puzzle in a new way.
